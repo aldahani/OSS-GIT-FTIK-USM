@@ -1,0 +1,90 @@
+{
+  "Version": "18.04",
+  "OEM": {
+    "Vendor": "Hewlett-Packard",
+    "Product": "HP 14 Notebook PC",
+    "Family": "103C_5335KV G=N L=CON B=HP S=14"
+  },
+  "BIOS": {
+    "Vendor": "Insyde",
+    "Version": "F.0E"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "2",
+    "Threads": "1",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "AuthenticAMD",
+    "Family": "22",
+    "Model": "0",
+    "Stepping": "1",
+    "Name": "AMD E1-2100 APU with Radeon(TM) HD Graphics",
+    "Virtualization": "AMD-V"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "1002",
+      "Model": "9834"
+    }
+  ],
+  "RAM": 3.5,
+  "Disks": [
+    320.1
+  ],
+  "Partitions": [
+    6.7,
+    12.4,
+    0.1
+  ],
+  "Screens": [
+    {
+      "Size": "309mmx174mm",
+      "Resolution": "1366x768",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": true,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_US",
+  "Timezone": "Asia/Jakarta",
+  "Install": {
+    "Media": "Ubuntu 18.04.3 LTS \"Bionic Beaver\" - Release amd64 (20190805)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "manual",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "5": "language",
+      "35": "console_setup",
+      "81": "wireless",
+      "101": "prepare",
+      "179": "partman",
+      "195": "partman",
+      "197": "partman",
+      "207": "partman",
+      "487": "partman",
+      "498": "partman",
+      "618": "partman",
+      "630": "partman",
+      "666": "partman",
+      "690": "partman",
+      "701": "partman",
+      "710": "start_install",
+      "715": "timezone",
+      "740": "usersetup",
+      "801": "user_done",
+      "1770": "done"
+    }
+  }
+}

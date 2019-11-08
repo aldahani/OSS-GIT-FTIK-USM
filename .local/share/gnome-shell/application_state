@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="0.5" last-seen="1572077609"/>
+    <application id="firefox.desktop" open-window-count="0" score="299604.2001953125" last-seen="1572078163"/>
+    <application id="gnome-calculator_gnome-calculator.desktop" open-window-count="0" score="1" last-seen="1572077911"/>
+    <application id="org.gnome.Screenshot.desktop" open-window-count="0" score="1.75" last-seen="1572077278"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="1.5" last-seen="1572077637"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1572076994"/>
+    <application id="eog.desktop" open-window-count="0" score="0.1875" last-seen="1572077200"/>
+    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="nautilus-folder-handler.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="0.5" last-seen="1572077633"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="33.994140625" last-seen="1572078175"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="0.0029296875" last-seen="1571678718"/>
+  </context>
+</application-state>
